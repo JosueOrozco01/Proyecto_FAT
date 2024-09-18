@@ -1,0 +1,17 @@
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.AssemblyInfoInputs.cache
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.AssemblyInfo.cs
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Proyecto_Fat.exe
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Proyecto_Fat.deps.json
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Proyecto_Fat.runtimeconfig.json
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Proyecto_Fat.dll
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Proyecto_Fat.pdb
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.csproj.AssemblyReference.cache
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto.85E5169C.Up2Date
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.dll
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\refint\Proyecto_Fat.dll
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.pdb
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\Proyecto_Fat.genruntimeconfig.cache
+C:\Users\josue\Documents\Universidad Landivar\Manejo e Implementación de Archivos\Programas\Proyecto_Fat\obj\Debug\net8.0\ref\Proyecto_Fat.dll
